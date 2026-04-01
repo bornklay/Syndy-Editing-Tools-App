@@ -1,0 +1,75 @@
+# Third Party Software Notices
+
+This application includes or uses the following open source software.
+
+---
+
+## FFmpeg
+
+This application uses FFmpeg for multimedia processing.
+
+FFmpeg is a free and open source multimedia framework capable of
+decoding, encoding, transcoding, muxing, demuxing, streaming,
+filtering, and playing audio and video.
+
+Copyright (c) the FFmpeg developers
+
+License:
+GNU Lesser General Public License (LGPL) or
+GNU General Public License (GPL) depending on build configuration.
+
+Project website:
+https://ffmpeg.org/
+
+---
+
+## Demucs
+
+This application uses Demucs for music source separation
+(e.g., separating vocals from instrumental tracks).
+
+Copyright (c) Meta AI Research
+
+License:
+MIT License
+
+Project page:
+https://github.com/facebookresearch/demucs
+
+---
+
+## PySide6
+
+This application uses PySide6 as the graphical user interface framework.
+
+PySide6 provides Python bindings for the Qt framework.
+
+Copyright (c) The Qt Company Ltd.
+
+License:
+GNU Lesser General Public License (LGPL)
+
+Project website:
+https://doc.qt.io/qtforpython/
+
+---
+
+## Python
+
+This application is built using the Python programming language.
+
+Copyright (c) Python Software Foundation.
+
+License:
+Python Software Foundation License
+
+Website:
+https://www.python.org/
+
+---
+
+## Notice
+
+All product names, logos, and brands are property of their respective owners.
+This application is an independent community project and is not affiliated
+with the original developers of the above software.

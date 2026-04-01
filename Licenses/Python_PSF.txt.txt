@@ -1,0 +1,23 @@
+# Python Software Foundation License
+
+This application is built using the Python programming language.
+
+Python is licensed under the Python Software Foundation License.
+
+Copyright (c) Python Software Foundation.
+
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee is hereby granted,
+provided that the above copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation.
+
+The Python Software Foundation makes no representations about the
+suitability of this software for any purpose. It is provided "as is"
+without express or implied warranty.
+
+Python project website:
+https://www.python.org/
+
+Full license text:
+https://docs.python.org/3/license.html

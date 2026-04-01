@@ -1,0 +1,19 @@
+# PySide6 License Notice
+
+This application uses PySide6 (Qt for Python).
+
+PySide6 provides Python bindings for the Qt framework and is licensed
+under the GNU Lesser General Public License (LGPL) version 3.
+
+Copyright (C) The Qt Company Ltd.
+
+You may obtain a copy of the license at:
+
+https://www.gnu.org/licenses/lgpl-3.0.html
+
+Qt for Python project:
+https://doc.qt.io/qtforpython/
+
+This software dynamically links against the PySide6 libraries.
+
+The PySide6 project and Qt framework are not affiliated with this application.
