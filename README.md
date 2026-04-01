@@ -1,1 +1,0 @@
-# Syndy-Editing-Tools-App
